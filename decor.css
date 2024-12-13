@@ -1,0 +1,99 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+}
+
+.main
+{
+    display: flex;
+    width: 95%;
+    align-items: center;
+    margin: 10px 0 50px 70px;
+    
+   
+}
+.header hr{
+    width: 95%;
+}
+.header
+{
+    padding: 50px 0 50px 55px;
+    margin-left:35px ;
+    border-bottom: black;
+    font-size: 25px;
+   
+}
+.one 
+{
+margin: auto;
+padding: 0 40px 0 0px;
+flex: 0 0 auto;
+}
+.one h1
+{
+    padding-top: 25px;
+}
+.one p{
+  width: 350px;
+  margin: 0 0 10px 16px;
+  padding: 5px 0;
+}
+.one h1 ,a{
+    margin: 0 0 0 16px;
+}
+.im{
+display: flex;
+justify-content: start;
+}
+.two button
+{
+    margin: 20px 0 20px 70px;
+    padding: 10px 20px;
+    background-color: #0d6efd;
+    border-radius: 5px;
+    color: white;
+    border: #0d6efd solid 1px;
+}
+.two1
+{
+    display: flex;
+    padding: 20px 19px 20px 0;
+   margin-left: -5px;
+}
+.two
+{margin: auto;
+}
+.two p{
+    width: 350px;
+  margin: 0 0 10px 70px;
+  padding: 5px 0;
+}
+.two h1
+{
+    padding-top: 20px;
+   margin: -7px 0 10px 16px;
+}
+.three1
+{
+    display: flex;
+  
+   margin-left: -5px;
+}
+.three
+{margin: auto;
+}
+.three p{
+    width: 200px;
+  margin: 0 0 10px 55px;
+  padding: 5px 0;
+}
+.three h1
+{
+    padding-top: 10px;
+   margin: -7px 0 10px 16px;
+}
+
+
